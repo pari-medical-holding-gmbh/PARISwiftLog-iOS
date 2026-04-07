@@ -1,4 +1,0 @@
-module LoggingSQLite {
-header "LoggingSQLite-Swift.h"
-export *
-}
