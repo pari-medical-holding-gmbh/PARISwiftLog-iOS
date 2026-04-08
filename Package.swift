@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "swift-log-sqlite",
+    name: "PARILogger-iOS",
     platforms: [
         .iOS(.v16),
         .macOS(.v12),
